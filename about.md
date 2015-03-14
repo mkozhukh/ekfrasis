@@ -1,11 +1,7 @@
 ---
 layout: page
-title: О авторе
+title: Пра аўтара
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Марозава Соф'я - даследчыца беларускай літаратуры. У 2011-2013 гадах працавала ў аспірантуры філалагічнага факультэта БДУ пад кіраўніцтвам Т.І. Шамякінай, тэма дысертацыі «Беларуская проза 80-90 гадоў ХХ стагоддзя: паэтыка міфа». У апошні год аспірантуры змяніла кола навуковых зацікаўленняў і займалася інтэрмедыяльнай паэтыкай у творчасці Віктара Карамазава. 
