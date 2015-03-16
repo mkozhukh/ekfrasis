@@ -8,8 +8,7 @@ description: >
   экфрасіса, ці слоўнага апісання твораў мастацтва ў літаратуры.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://http://ekfrasis.monoxrom.net" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  sofya-mr
 
 # Build settings
 markdown: kramdown
